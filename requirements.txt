@@ -1,4 +1,9 @@
 HyperPyYAML==1.1.0
-pandas==1.5.2
+pandas==1.5.3
 speechbrain==0.5.14
 torch==1.13.0
+torchaudio==0.13.0
+torchtext==0.14.0
+torchvision=0.14.0
+torchdata==0.5.1
+
